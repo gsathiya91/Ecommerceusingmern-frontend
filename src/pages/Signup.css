@@ -1,0 +1,28 @@
+.signup__image--container {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHEpl4DzrY-E3yZiKgaiQWoHTdcj6rwNGKUQ&usqp=CAU);
+    height: 68vh;
+    background-size: cover;
+}
+
+.signup__form--container,
+.login__form--container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 80vh;
+    justify-content: center;
+}
+
+.login__image--container {
+    background-image: url(https://cdn.pixabay.com/photo/2019/04/26/07/14/store-4156934__480.png);
+    height: 90vh;
+    background-size: cover;
+}
+
+@media screen and(max-width: 756px) {
+
+    .login__image--container,
+    .signup__image--container {
+        display: none;
+    }
+}
