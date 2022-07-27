@@ -18,7 +18,7 @@ function AdminDashboard(){
                         <Nav.Link eventKey="orders">Orders</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                        <Nav.Link eventKey="clients">Clients</Nav.Link>
+                        <Nav.Link eventKey="clients">Users</Nav.Link>
                     </Nav.Item>
                 </Nav>
                 </Col>
