@@ -80,7 +80,7 @@ function ProductPage() {
                         </ButtonGroup>
                     )}
                     {user && user.isAdmin && (
-                        <LinkContainer to={`/products/${product._id}/edit`}>
+                        <LinkContainer to={`/product/${product._id}/edit`}>
                             <Button size="lg">Edit Product</Button>
                         </LinkContainer>
                     )}
