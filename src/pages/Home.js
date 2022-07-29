@@ -19,7 +19,7 @@ function HomePage() {
     return (
         <div>
             <img src=
-            "https://static.vecteezy.com/system/resources/thumbnails/007/808/325/small/flash-sale-banner-template-design-for-web-or-social-media-vector.jpg" 
+            "https://media.istockphoto.com/vectors/internet-shopping-concept-on-computer-vector-id1257044925?k=20&m=1257044925&s=612x612&w=0&h=i5o_jMdPNHcSvHdatsPOrHWafQgVMmAAHXhdiprFqb4=" 
             className="homeimage"
              />
             <div className="products-container mt-4">
